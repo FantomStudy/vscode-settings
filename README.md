@@ -21,8 +21,8 @@
 <p align="center"><samp>Preview</samp></p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/04938b96-29f8-44e0-8755-92126898aa9e" alt="Dark Theme Preview" width="90%"><br><br>
-<img src="https://github.com/user-attachments/assets/013757e0-1ddf-4b71-9fed-00ffb5d1347b" alt="Light Theme Preview" width="90%">
+<img src="https://github.com/user-attachments/assets/04938b96-29f8-44e0-8755-92126898aa9e" alt="Dark Theme Preview"><br><br>
+<img src="https://github.com/user-attachments/assets/013757e0-1ddf-4b71-9fed-00ffb5d1347b" alt="Light Theme Preview">
 <sub><samp>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dark Theme | <a href="https://marketplace.visualstudio.com/items?itemName=andrewberty.noir-theme-bundle">Noir Poimandres Dark</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Light Theme | <a href="https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc">Catppuccin Latte</a><br>
