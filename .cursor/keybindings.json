@@ -1,0 +1,52 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "a",
+    "command": "explorer.newFile",
+    "when": "filesExplorerFocus && !inputFocus"
+  },
+  {
+    "key": "shift+a",
+    "command": "explorer.newFolder",
+    "when": "filesExplorerFocus && !inputFocus"
+  },
+  {
+    "key": "ctrl+b",
+    "command": "workbench.files.action.focusFilesExplorer",
+    "when": "!explorerViewletVisible"
+  },
+  {
+    "key": "ctrl+b",
+    "command": "workbench.action.toggleSidebarVisibility",
+    "when": "explorerViewletVisible"
+  },
+  {
+    "key": "ctrl+alt+b",
+    "command": "workbench.view.explorer"
+  },
+  {
+    "key": "ctrl+,",
+    "command": "breadcrumbs.focusAndSelect"
+  },
+  {
+    "key": "ctrl+alt+l",
+    "command": "list.collapseAll",
+    "when": "listFocus && !inputFocus && !treestickyScrollFocused"
+  },
+  // Cursor custom
+  {
+    "key": "ctrl+k",
+    "command": "-aipopup.action.modal.generate",
+    "when": "editorFocus && !composerBarIsVisible"
+  },
+  {
+    "key": "ctrl+shift+k",
+    "command": "-aipopup.action.modal.generate",
+    "when": "editorFocus && !composerBarIsVisible"
+  },
+  {
+    "key": "ctrl+alt+z",
+    "command": "-workbench.action.backgroundComposer.toggleControlPanelExpand",
+    "when": "backgroundComposerEnabled"
+  }
+]

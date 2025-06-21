@@ -1,0 +1,43 @@
+{
+  // FORMATTING
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+
+  // QOL
+  "files.autoSave": "afterDelay",
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "editor.linkedEditing": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "extensions.ignoreRecommendations": true,
+
+  // VISUALS
+  "editor.fontFamily": "Jetbrains Mono",
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "expand",
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.smoothScrolling": true,
+  "explorer.compactFolders": false,
+  "editor.minimap.enabled": false,
+  "workbench.statusBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "excalidraw.theme": "dark",
+  "workbench.iconTheme": "catppuccin-perfect-latte",
+  "workbench.colorTheme": "Noir Poimandres Dark",
+  "workbench.productIconTheme": "icons-carbon",
+  "window.titleBarStyle": "custom",
+  "glassit.alpha": 245
+}
