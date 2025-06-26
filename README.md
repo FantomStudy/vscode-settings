@@ -15,7 +15,7 @@
 <br>
 
 <samp><b>Cursor Specific</b></samp><br>
-[`.vscode/.cursor/keybindings.json`](./.vscode/.cursor/keybindings.json)
+[`.cursor/keybindings.json`](./.vscode/.cursor/keybindings.json)
 
 <br>
 <p align="center"><samp>Preview</samp></p>
